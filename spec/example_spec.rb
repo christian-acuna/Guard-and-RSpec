@@ -6,4 +6,6 @@ describe 'RSpecGreeter' do
     greeting = greeter.greet            # When
     expect(greeting).to eq('Hello RSpec!') # Then
   end
+
+  it 'some method'
 end
