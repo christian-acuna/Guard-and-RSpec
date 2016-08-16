@@ -1,4 +1,5 @@
-# Guard and RSpec
+# Guard and RSpec 
+[![Build Status](https://travis-ci.org/christian-acuna/Guard-and-RSpec.svg?branch=master)](https://travis-ci.org/christian-acuna/Guard-and-RSpec)
 
 ## Installation
 
