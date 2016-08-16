@@ -6,7 +6,6 @@ class RSpecGreeter
   def greet
     # binding.pry
     pubs
-    privs
     "Hello RSpec!"
   end
 
